@@ -1,5 +1,5 @@
 
-![ddd](https://user-images.githubusercontent.com/81658694/159159692-10682416-90ce-4f22-84f9-47268c6efb28.jpg)
+![ddd](https://user-images.githubusercontent.com/81658694/159159879-7b6c0600-840d-45bb-9e3f-e842b78d2d2a.png)
 
 # Drug store sales prediction using XGBoost Regressor
 
