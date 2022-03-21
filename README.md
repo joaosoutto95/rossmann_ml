@@ -26,5 +26,5 @@ Bellow we can see the table with the:
 
 ![results_2](https://user-images.githubusercontent.com/81658694/159250608-5a9b7ab7-649d-4b37-9958-f181ca6c721f.PNG)
 
-### For more details about the project premisses access the notebook in this github repo.
-### For information about the features access https://www.kaggle.com/c/rossmann-store-sales
+#### For more details about the project premisses access the notebook in this github repo.
+#### For information about the features access https://www.kaggle.com/c/rossmann-store-sales
