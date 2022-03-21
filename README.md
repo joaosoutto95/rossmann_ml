@@ -15,9 +15,14 @@ After choosing through Boruta the main features of the model, comparing the erro
 
 In the image above, is possible to see the errors of the XGBoost Regressor model, it got an 4% mean absolute percentual error.
 In the image bellow, the upper graph shows the predictability of the model (lineplot in blue) and the real sales (lineplot in orange), the other graphs shows
-the distribution of the error, error rate through predicted time, error relative to the sales prediction and   
+the distribution of the mean errors, mean error rate through predicted time, error relative to the sales prediction and the mean error in a bar plot based on prediction values.  
 
 ![results_1](https://user-images.githubusercontent.com/81658694/159250602-10249a6f-3ddc-4bba-9d22-468bdede83af.png)
+
+Bellow we can see the table with the:
+- Predicted Scenario: Sum of all forecasted sales values for each store
+- Worst Scenario: Sum of all forecasted sales values for each store minus the respective error
+- Optimist Scenario: Sum of all forecasted sales values for each store plus the respective error
+
 ![results_2](https://user-images.githubusercontent.com/81658694/159250608-5a9b7ab7-649d-4b37-9958-f181ca6c721f.PNG)
-![results_3](https://user-images.githubusercontent.com/81658694/159250612-72b998f3-826f-4c19-bd46-2abfd49cd582.png)
 
