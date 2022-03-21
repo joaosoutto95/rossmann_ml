@@ -9,3 +9,7 @@ The objective of the project is to discover business insights based on public ma
 
 ## Overview of the project results:
 
+![results_1](https://user-images.githubusercontent.com/81658694/159250602-10249a6f-3ddc-4bba-9d22-468bdede83af.png)
+![results_2](https://user-images.githubusercontent.com/81658694/159250608-5a9b7ab7-649d-4b37-9958-f181ca6c721f.PNG)
+![results_3](https://user-images.githubusercontent.com/81658694/159250612-72b998f3-826f-4c19-bd46-2abfd49cd582.png)
+![results_4](https://user-images.githubusercontent.com/81658694/159250618-7634bfd8-1781-4dd3-84da-bae4d96ca7e0.PNG)
